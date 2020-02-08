@@ -19,7 +19,7 @@
 |제1장| [Docker 복습과 Hello, Kubernetes](./k8s/1.md) |
 |제2장| [왜 Kubernetes가 필요할까?](./k8s/2.md) |
 |제3장| [Kubernetes의 환경을 선택할때](./k8s/3.md)|
-|제4장| [APIリソースとkubectl](./k8s/4.md)|
+|제4장| [API 리소스와 kubectl](./k8s/4.md)|
 |제5장| [Workloads 리소스](./k8s/5.md)|
 |제6장| [Discovery & LB 리소스](./k8s/6.md)|
 |제7장| [Config & Storage 리소스](./k8s/7.md)|
